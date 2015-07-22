@@ -19,5 +19,4 @@
       $('.event-block:has(.author_name:contains(uoWeb Automation))').remove();
     }
   );
-  $('.event-block:has(.author_name:contains(uoWeb Automation))').remove();
 })(jQuery);
